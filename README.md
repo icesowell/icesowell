@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+link to my profile on CodeWard https://www.codewars.com/users/icesowell
+
 <!--
 **icesowell/icesowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
