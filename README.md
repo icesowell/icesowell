@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on django project 'Internet wear web-store'
+
+- 🌱 I’m currently learning django
+
 link to my profile on CodeWard https://www.codewars.com/users/icesowell
 
 <!--
