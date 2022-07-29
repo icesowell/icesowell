@@ -21,4 +21,4 @@
 [![CodeWard](https://img.shields.io/badge/-Codeward-090909?style=for-the-badge&logo=codeward&logoColor=47C5FB)](https://www.codewars.com/users/icesowell)
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icesowell=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icesowell)](https://github.com/anuraghazra/github-readme-stats)
