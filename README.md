@@ -19,3 +19,5 @@ www.linkedin.com/in/icesowell
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/foreversobad)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=47C5FB)](https://vk.com/icesowell)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=vk&logoColor=47C5FB)](www.linkedin.com/in/icesowell)
