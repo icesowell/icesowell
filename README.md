@@ -8,7 +8,7 @@
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
-![С#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=c//D&logoColor=47C5FB)
+![С#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=c%23//D&logoColor=47C5FB)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=47C5FB)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=47C5FB)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
