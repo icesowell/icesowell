@@ -10,5 +10,5 @@ www.linkedin.com/in/icesowell
 
 
 ###Languages and Tools
-![Python](https://img.shields.io/badge/-Python-009090?style=for-the-badge&logo=python)
+ ![Python](https://img.shields.io/badge/-Python-009090?style=for-the-badge&logo=python)   
 
