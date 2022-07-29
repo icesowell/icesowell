@@ -18,7 +18,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/foreversobad)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=47C5FB)](https://vk.com/icesowell)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=47C5FB)](www.linkedin.com/in/icesowell)
-[![CodeWard](https://img.shields.io/badge/-Codeward-090909?style=for-the-badge&logo=codeward&logoColor=47C5FB)](https://www.codewars.com/users/icesowell)
+[![CodeWars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=47C5FB)](https://www.codewars.com/users/icesowell)
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icesowell&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
