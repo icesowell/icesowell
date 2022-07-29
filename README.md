@@ -1,7 +1,6 @@
 ![header](https://user-images.githubusercontent.com/108310900/181232108-a9057336-e64f-4619-af27-50916766c12e.gif)
 
 
-- 🔭 I’m currently working on django project 'Internet wear web-store'
 
 - 🌱 I’m currently learning django
 
