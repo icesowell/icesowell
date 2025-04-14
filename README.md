@@ -1,34 +1,25 @@
-<h1 align="center">🧪 QA Engineer – Nikita</h1>
+<h1 align="center">🚀 QA Engineer – Nikita</h1>
 
 <p align="center">
-  👋 Привет! Я инженер по тестированию с опытом в ручном тестировании и с растущими навыками в автоматизации.<br>
-  В этом портфолио — мои тестовые артефакты, баг-репорты и примеры автотестов.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Manual+%26+Automation+QA;Selenium+%2B+Pytest+%2B+Allure;Bug+Hunter+%7C+Documentation+Pro;Always+Learning+%26+Improving" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧰 Мой стек и инструменты
-
-| Категория           | Технологии и инструменты                                     |
-|---------------------|--------------------------------------------------------------|
-| 🖐 Ручное тестирование | Функциональное, Smoke, Регрессионное                         |
-| 🤖 Автотесты          | Selenium + Pytest + Allure                                   |
-| 🌐 API               | Postman                                                      |
-| 🔧 Инструменты        | DevTools, Charles Proxy, Miro, Obsidian                     |
-| 🐞 Трекинг            | Яндекс.Трекер                                                |
-| 💻 Языки и технологии| Python (базовый), Bash (базовый), Git (базовый)             |
-
----
-
-## 🧑‍💻 Обо мне
-
-- 🎓 Диплом по специальности «Прикладная информатика»
-- 🧠 В работе ориентируюсь на точность, ясность и воспроизводимость
-- 🚀 Регулярно развиваюсь в направлении автоматизации тестирования
-- 💬 Telegram для связи: [@icesowell](https://t.me/icesowell)
-
----
+## 🧰 Стек и инструменты
 
 <p align="center">
-  <i>Спасибо, что заглянули в мой репозиторий! 🤝</i>
+  <img src="https://img.shields.io/badge/-Manual_Testing-informational?style=for-the-badge&logo=bugatti&logoColor=white&color=blue"/>
+  <img src="https://img.shields.io/badge/-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white&color=43B02A"/>
+  <img src="https://img.shields.io/badge/-Pytest-informational?style=for-the-badge&logo=python&logoColor=white&color=yellowgreen"/>
+  <img src="https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37"/>
+  <img src="https://img.shields.io/badge/-Charles_Proxy-informational?style=for-the-badge&logo=cloudflare&logoColor=white&color=orange"/>
+  <img src="https://img.shields.io/badge/-Miro-informational?style=for-the-badge&logo=miro&logoColor=white&color=1E1E2F"/>
+  <img src="https://img.shields.io/badge/-Python_Basics-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>
+  <img src="https://img.shields.io/badge/-Git_Basics-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032"/>
 </p>
+
+---
+
+## 📁 Структура репозитория
+
