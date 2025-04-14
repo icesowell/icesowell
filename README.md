@@ -1,7 +1,7 @@
 <h1 align="center">🚀 QA Engineer – Nikita</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Manual+%26+Automation+QA;Selenium+%2B+Pytest+%2B+Allure;Cypress+%7C+Postman+%7C+Swagger+%7C+Grafana;XPath+Craftsman+%7C+Bug+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Manual+%26+Automation+QA;Selenium+%2B+Pytest+%2B+Requests+%2B+Allure;Cypress+%7C+Postman+%7C+Swagger+%7C+Grafana;XPath+Craftsman+%7C+Bug+Hunter" alt="Typing SVG" />
 </p>
 
 ---
