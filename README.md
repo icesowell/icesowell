@@ -1,4 +1,4 @@
-# QA Engineer Portfolio – Nikita
+# QA Engineer – Nikita
 
 👋 Hi! I'm a QA Engineer with experience in manual testing and growing skills in test automation. This portfolio contains my practical testing artifacts, bug reports, and automation examples.
 
