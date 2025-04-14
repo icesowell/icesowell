@@ -1,28 +1,33 @@
-# QA Engineer – Nikita
+<h1 align="center">
+  🧑💻 QA Engineer | Никита 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-👋 Hi! I'm a QA Engineer with experience in manual testing and growing skills in test automation. This portfolio contains my practical testing artifacts, bug reports, and automation examples.
+<p align="center">
+  <img src="https://img.shields.io/badge/Ручное_тестирование-Эксперт-important" />
+  <img src="https://img.shields.io/badge/Автоматизация-Развиваю-success" />
+  <img src="https://img.shields.io/badge/API-Postman-ff69b4" />
+</p>
 
-## 🧰 Tools & Technologies
+## 🛠 Технологии и инструменты
 
-- Manual Testing: Functional, Smoke, Regression
-- Automation: Selenium (Pytest + Allure)
-- API Testing: Postman
-- Tools: DevTools, Charles, Miro, Obsidian
-- Issue Tracking: Yandex Tracker
-- Languages: Python (basic), Bash (basic), Git (basic)
+<div align="center">
+  
+| Категория       | Навыки и инструменты                                                                 |
+|----------------|-------------------------------------------------------------------------------------|
+| **Ручное тестирование** | Функциональное, Дымовое, Регрессионное тестирование                                |
+| **Автоматизация**       | Selenium WebDriver, Pytest, Allure Report                                          |
+| **API-тестирование**    | Postman (REST/SOAP), Charles Proxy                                                 |
+| **Другие инструменты**  | DevTools, Яндекс.Трекер, Miro, Obsidian                                           |
+| **Языки**              | Python (базовый), Bash (базовый), Git (базовый), SQL (базовый)                    |
 
-## 📁 Repository Structure
+</div>
 
-- `docs/` – Test plan & checklist (created in Miro)
-- `bug-reports/` – Selected bug reports
-- `automation/` – Selenium Pytest Allure sample tests
-- `projects/` – Practical test case studies (in progress)
+## 📂 Структура репозитория
 
-## 🔍 About Me
-
-- 🎓 Degree in Applied Informatics
-- 🔍 Focused on precision, clarity, and reproducibility in testing
-- 🚀 Actively improving skills in test automation
-- 📬 Telegram: [@icesowell](https://t.me/icesowell)
-
-> *“Make it simple. Make it work. Make it bulletproof.”*
+```bash
+qa-portfolio/
+├── docs/               # Тест-планы и чек-листы (Miro)
+├── bug-reports/        # Примеры баг-репортов
+├── automation/         # Примеры автотестов (Selenium + Pytest + Allure)
+└── projects/           # Практические кейсы (в процессе)
