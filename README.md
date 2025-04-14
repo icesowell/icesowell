@@ -21,5 +21,37 @@
 
 ---
 
-## 📁 Структура репозитория
+
+---
+
+## 🧑‍💻 Обо мне
+
+- 🎓 Диплом «Прикладная информатика»
+- 🧐 Ценю: чёткость, логичность и воспроизводимость
+- ⚙️ Постоянно прокачиваю навыки автоматизации
+- 🧩 Умею работать в команде и взаимодействовать с разработчиками
+- 📬 Telegram: [@icesowell](https://t.me/icesowell)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icesowell&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icesowell&layout=compact&theme=radical" height="150">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icesowell&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <i>QA — не просто поиск багов, а забота о качестве, стабильности и доверии пользователя.</i><br>
+  🙌 Спасибо, что заглянули! Если вы рекрутер или тимлид — пишите в Telegram, буду рад пообщаться.
+</p>
+
 
