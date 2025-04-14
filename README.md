@@ -39,20 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icesowell&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icesowell&layout=compact&theme=radical" height="150">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icesowell&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   <i>QA — это не просто тестирование. Это забота о пользователе, продукте и качестве на каждом этапе.</i><br>
